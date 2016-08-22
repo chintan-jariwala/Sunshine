@@ -1,6 +1,6 @@
 # Sunshine
 
-## Developing a weather application in course of persuing my Nano Degree from udacity on Android Application Development
+## Developing a weather application in course of pursuing my Nano Degree from udacity on Android Application Development
 
 ## Instructions for running the application
 
